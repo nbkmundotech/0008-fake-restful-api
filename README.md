@@ -28,3 +28,11 @@ Test your API by running:
 ```sh
 heroku open
 ```
+
+## Editing the initial data
+
+The database is in the file **db.json**. You can edit the JSON information there.
+
+## HTTP Requests & Endpoints
+
+Refer to the [json-server documentation](https://github.com/typicode/json-server) for how to use your API.
