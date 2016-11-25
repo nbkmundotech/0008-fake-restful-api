@@ -31,7 +31,7 @@ heroku open
 
 ## Editing the initial data
 
-The database is in the file **<db.json>**. You can edit the JSON information there.
+The database is in the file **[db.json>](db.json)**. You can edit the JSON information there.
 
 ## HTTP Requests & Endpoints
 
